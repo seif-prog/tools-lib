@@ -77,7 +77,7 @@ def just_for_fun():
     os.system('git clone https://github.com/androxgh0st/just-for-fun')
     print('\n DONE')
 
-def Hash_generaor():
+def Hash_generator():
     os.system('clear')
     print('Install Hash-generator')
     os.system('apt update -y && apt upgrade -y')
