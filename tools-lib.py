@@ -1,4 +1,4 @@
-# This program writen by python 2
+# This program writen by python 3
 #                  Author  : Seif
 
 
@@ -33,7 +33,7 @@ def SN():
     print (' {14} -> OSIF')
     print (' {15} -> SET')
     print ('\n {99} -> To Exit \n')
-    choice = raw_input (SNprompet)
+    choice = input (SNprompet)
     if choice == '1':        fsociety()
     elif choice == '2':        errorcybertool()
     elif choice == '3':        toolx()
