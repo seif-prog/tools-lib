@@ -2,7 +2,7 @@
 Installation
 
 Requirements
-  Python 2
+  Python 3
   
 Clone this: https://github.com/seif-prog/tools-lib.git
 
