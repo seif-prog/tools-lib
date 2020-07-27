@@ -50,5 +50,9 @@ def TL():
     elif choice == '14':        osif()
     elif choice == '15':        SET()
     elif choice == '99':        sys.exit()
+    else:
+      print ('ERROR')
+      print ('check your input')
+      return choice
 
 TL()
