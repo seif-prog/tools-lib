@@ -4,7 +4,7 @@ import os
 def main_logo():
     print (' }--------------> Coded By Seif <--------------{ ')
 
-SNprompet = ('SwordNet ~# ')
+SNprompet = ('ToolsLib ~# ')
 
 def fsociety ():
     os.system('clear')
