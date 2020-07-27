@@ -14,7 +14,7 @@ import sys
 Main
 '''
 #Home
-def SN():
+def TL():
     os.system('clear')
     main_logo()
     print (' {1} -> fsociety')
@@ -33,7 +33,7 @@ def SN():
     print (' {14} -> OSIF')
     print (' {15} -> SET')
     print ('\n {99} -> To Exit \n')
-    choice = input (SNprompet)
+    choice = input (TLprompet)
     if choice == '1':        fsociety()
     elif choice == '2':        errorcybertool()
     elif choice == '3':        toolx()
@@ -51,4 +51,4 @@ def SN():
     elif choice == '15':        SET()
     elif choice == '99':        sys.exit()
 
-SN()
+TL()
